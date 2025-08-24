@@ -1,2 +1,2 @@
-# Mathematical_support___Lectures
-123
+# Математическое обеспечение | Лекции
+
